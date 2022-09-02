@@ -12,7 +12,6 @@ App to help memorize. This application was created for the purpose of studies.
 - Renimated v2
 - Moti
 - React Native SVG
-- And more...
 
 ## Running
 
@@ -22,8 +21,7 @@ Clone this project and start with Expo:
 
 ```bash
   git clone branch_url
-  cd expensesapp
-  npm install
+  yarn
   expo start
 ```
 
